@@ -1,2 +1,4 @@
-# chat-test
-primera prueba de chat
+```
+npm install
+npm run start
+```
